@@ -1,9 +1,8 @@
 # parkside-battery-hack
 Hack which allow for the PLG 20 A1 charger to charge old style parkside 21V batteries (and possibly others)
-
+### Status update: Battery died roughly 4 months after this change
 
 ## TLDR: Use Arduino Nano to fake the impulses sent by battery to enable the charger to work. See code for more info.
-
 # The story
 Some time ago a friend asked me if I could fix his parkside drill charger. Obviously I couldn't refuse, I love fixing stuff even when it makes little economic sense.
 
